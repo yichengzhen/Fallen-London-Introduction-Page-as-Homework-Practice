@@ -1,0 +1,10 @@
+<p><strong>Fallen London</strong> is a massively popular browser-based interactive narrative game developed by Failbetter Games. First launched in 2009, it is a text-driven role-playing experience where players explore a darkly captivating alternative metropolis, navigating a complex and ever-expanding web of choices, consequences, and social intrigue.</p>
+
+<h3>Literary Style and Tone</h3>
+<p>The game is renowned for its exceptional literary quality. It marries intricate, opulent prose with a pervasive sense of existential dread, seamlessly weaving Victorian-Gothic aesthetics with dry, British black humor. Beneath the oppressive gloom of its setting, a sharp, cynical wit carefully dissects the absurdities of a deeply stratified society.</p>
+
+<h3>An Immense Narrative Scale</h3>
+<p>As an unprecedented work of interactive literature, the game boasts a staggering volume of content. It features over 4.5 million words of handcrafted narrative, where individual choices branch into endlessly complex storylines. This vast textual foundation has allowed the universe to expand beyond the browser, spawning critically acclaimed standalone titles such as <em>Sunless Sea</em>, <em>Sunless Skies</em>, and <em>Mask of the Rose</em>.</p>
+
+<h3>A Living, Evolving World</h3>
+<p>Since its inception, Fallen London has remained a continuously updated live-service narrative. The developers actively expand the universe through regular seasonal festivals, major holiday events, and monthly premium storylines known as <em>Exceptional Stories</em>. The narrative landscape is never static; new secrets, mechanics, and deep lore are constantly introduced, ensuring that both veteran players and newcomers always have unexplored territories to discover.</p>

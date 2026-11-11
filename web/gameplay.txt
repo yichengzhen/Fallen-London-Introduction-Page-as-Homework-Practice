@@ -1,0 +1,12 @@
+<h2>The Rhythm of Play</h2>
+
+<p>Unlike modern video games that demand hours of continuous engagement, <strong>Fallen London</strong> is designed as an interactive serial novel. It embraces a fragmented, deliberate rhythm. You are given a limited pool of "Actions" that regenerate slowly over real-world time—typically one every ten minutes. This mechanical constraint is not a hindrance, but a narrative device. It forces you to savor the text, to log in for a brief ten-minute session over a morning coffee, read a few storylets, make a monumental choice, and then walk away to let the consequences simmer.</p>
+
+<h3>The Architecture of Choice</h3>
+<p>The game features no 3D graphics, no combat animations, and no voice acting. Its entire architecture is built upon the written word and the weight of decision-making. Every storylet presents you with branching paths. Will you help the urchin pickpocket, report him to the constable, or simply ignore him? These choices are tracked silently in the background, accumulating over weeks and months to unlock entirely different storylines, allies, and enemies. The game remembers what you did, even when you have forgotten.</p>
+
+<h3>A World of Consequences</h3>
+<p>In Fallen London, failure is often more interesting than success. The game tracks four primary "Menaces"—Nightmares, Scandal, Suspicion, and Wounds. Failing a challenge increases these menaces. If your Nightmares reach level eight, you don't simply "die"; you are dragged off to the Royal Bethlehem Hotel, a luxurious sanatorium for the incurably insane, where you must navigate dream-logic to escape. If your Suspicion gets too high, you are thrown into New Newgate Prison. The game transforms your failures into entirely new, often darkly humorous, narrative detours.</p>
+
+<h3>A Living, Breathing Story</h3>
+<p>Because the game has been running since 2009, the narrative has grown organically. The developers release new content constantly, ranging from small weekly updates to massive, sprawling epics known as "Exceptional Stories." Your character evolves not by leveling up a combat stat, but by becoming a part of the city's living history. You might be a humble detective today, and a celebrated poet, a notorious thief, or a person of significant influence tomorrow. The only limit is how far you are willing to read, and what you are willing to sacrifice.</p>

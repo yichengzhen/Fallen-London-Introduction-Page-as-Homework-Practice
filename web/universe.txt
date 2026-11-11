@@ -1,0 +1,18 @@
+<h2>The Fallen London Universe</h2>
+
+<p>What began as a browser-based text adventure has evolved into a sprawling, multi-platform narrative universe. Failbetter Games has expanded the boundaries of the <em>Neath</em> beyond the browser, proving that the stories of the Fifth City are not confined to a single medium.</p>
+
+<h3>Venturing Beyond the City</h3>
+<p>While the original game restricts you to the streets of London, the stand-alone spin-offs offer entirely different genres and perspectives.</p>
+<ul>
+    <li><strong>Sunless Sea (2015)</strong>: A game of discovery, loneliness, and frequent death. You take the helm of a steamship and set sail across the vast, dark <em>Unterzee</em>, managing your crew's sanity, fuel, and supplies while encountering zee-monsters and ancient, alien civilisations. It is a survival roguelike where the sea itself is your greatest enemy.</li>
+    <li><strong>Sunless Skies (2019)</strong>: A Gothic Horror roleplay game that trades the underground ocean for the vastness of space. The British Empire has taken to the stars in spacefaring locomotives, and you must navigate a Victorian conception of the cosmos, smuggling souls and betraying queens while exploring exquisite, terrifying storytelling.</li>
+    <li><strong>Mask of the Rose (2023)</strong>: A romantic visual novel that serves as a prequel to the entire franchise. Set in the days just after the Fall, you must solve a murder while navigating the complex social dynamics of a city in crisis. It is a marvellous romance with a hint of murder, and a watchful eye on the bats.</li>
+</ul>
+
+<h3>On the Horizon: Mandrake</h3>
+<p>In a bold departure from the Victorian-Gothic gloom, Failbetter Games is developing <strong>Mandrake</strong>, a fantasy rural life simulation RPG. It was always intended to be a new setting, allowing the writers to explore weather, trees, and a different kind of folklore. Drawing inspiration from British history and ancient folklore, Mandrake is set in a village called Chandley, where you play the last member of a family of magic gardeners. You must navigate a world of old, wild powers and uncanny spirits that reside in places mortals dare not go. The magic here is not about flashy fireballs, but about folkloric ingenuity, whimsy, and patience—such as eavesdropping on the dead. The game is planned for Steam Early Access, with playtests and a demo expected before then.</p>
+
+<h3>The Great Game on the Tabletop</h3>
+<p>The influence of the Neath has even spread to the physical realm. In 2025, to mark the fifteenth anniversary of the original game, Failbetter Games partnered with <strong>Magpie Games</strong> (renowned for <em>Masks: A New Generation</em>) to launch <strong>Fallen London: The Roleplaying Game</strong> on Kickstarter. The campaign was a resounding success, raising over $1 million from nearly 9,000 backers.</p>
+<p>This officially licensed tabletop RPG invites players to chase grand ambitions through the streets of the Fifth City as obsessive Londoners. It features the <strong>Ædana System</strong>, a new game engine designed for fast, nuanced resolution and intricate conflict systems, allowing players to dive deeply into the darkly humorous and whimsical world of the Neath with dice in hand.</p>
